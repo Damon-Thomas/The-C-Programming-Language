@@ -1,0 +1,1 @@
+Repository for working on exercises given by the Book The C Programming Language by Kernighan and Ritchie
